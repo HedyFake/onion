@@ -1,0 +1,22 @@
+{
+    "data":[{
+        "web" : "http://gfcollege.in",
+        "db" : "MySQL",
+        "gamb" : "img/logo.png",
+        "lnk" : "15-06-2023"
+    },
+    {
+        "web" : "http://math4all.in",
+        "db" : "MySQL",
+        "gamb" : "img/logo2.png",
+        "lnk" : "16-06-2023"
+    },
+    {
+        "web" : "https://www.mililink.com",
+        "db" : "MySQL",
+        "gamb" : "img/lg1.png",
+        "lnk" : "/dmp"
+    }
+
+]
+}

@@ -1,0 +1,57 @@
+body {
+    background: url(https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-dark-anime.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+  }
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.container2{
+    margin-top: 4cm;
+}
+.text{
+    text-align: center;
+    font-family: 'Graffiti font', sans-serif;
+    color: red;
+    text-shadow: grey 0px 0px 10px;
+    font-size: x-large;
+}
+   
+span{
+    color: #ffff;
+}
+.ck{
+    text-align: center;
+    margin-top: 1cm;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    border-radius: 1mm;
+    margin-top: 1cm;
+    text-shadow: grey 0px 0px 10px;
+
+}
+
+.tks{
+    margin-top: 4cm;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 1cm
+}
+
+.dtb{
+    border: 2px dashed gray;
+    text-align: center;
+    margin-top: 4cm;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid;
+    border-radius: 3mm;
+    background-color: rgb(12, 11, 11);
+}
+
+.footer{
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+Latitude: -7.5202254
+Longitude: 112.3456869
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Altitude: null
+Accuracy: 4287.278299463932
+Speed: null
+Heading: null
+Platform: Linux x86_64
+Cores: 2
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Battery: 84

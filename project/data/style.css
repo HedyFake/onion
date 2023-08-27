@@ -1,0 +1,35 @@
+
+.awl{
+    text-align: center;
+    color: greenyellow;
+    font-family: 'Edu SA Beginner', cursive;
+}
+
+.main{
+    border: solid;
+    border-radius: 2mm;
+    color: white;
+}
+
+.p{
+    text-align: center;
+    color: rgb(202, 4, 4);
+    font-family: 'Lobster', cursive;
+    font-size: xx-large;
+}
+
+.s{
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.cth{
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+}
+.h{
+    text-align: center;
+    color: aliceblue;
+}
